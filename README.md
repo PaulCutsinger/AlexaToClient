@@ -2,7 +2,7 @@
 - [aws.amazon.com](http://AWS.Amazon.com)
 - [developer.amazon.com](http://developer.amazon.com)
 
-###Resources you'll need for my tutorial
+###Resources you'll need for the following tutorial
 - (for part 3) Lambda Function that writes to SQS: https://alexadevs.slack.com/files/paulcutsinger/F1CJ0JL22/Alexa_to_SQS_lambda_function.js
 - (for part 4) Web page that reads from SQS: https://alexadevs.slack.com/files/paulcutsinger/F1CGTFZ35/alexa_to_sqs_web_page.js
 - (for part 5) AWS Mobile SDK for Unity: http://sdk-for-net.amazonwebservices.com/latest/aws-sdk-unity.zip
