@@ -7,4 +7,4 @@
 - Part 2, Make the Color Expert Skill: [video - 15:54] (https://www.youtube.com/watch?v=8BXAXr3_yPk)
 - Part 3, Create SQS and send a Message: [video - 13:36] (https://www.youtube.com/watch?v=DFw1LVJWOSk), Files: [Alexa Lambda Function that writes to SQS] (https://github.com/PaulCutsinger/AlexaToClient/blob/master/Alexa_to_SQS_lambda_function.js)
 - Part 4, Make HTML Page that reads SQS: [video - 13:26] (https://www.youtube.com/watch?v=xPqpCXAw7SY), Files: [Webpage that reads SQS] (https://github.com/PaulCutsinger/AlexaToClient/blob/master/Alexa_to_SQS_web_page.js)
-- Part 5, Read Messages in Unity: [video - 9:18] (https://www.youtube.com/watch?v=Qtlf71qcLB0), Files: [Unity script that reads SQS] (https://github.com/PaulCutsinger/AlexaToClient/blob/master/Unity_Poll_SQS_Script.cs)
+- Part 5, Read Messages in Unity: [video - 9:18] (https://www.youtube.com/watch?v=Qtlf71qcLB0), Files: [Unity script that reads SQS] (https://github.com/PaulCutsinger/AlexaToClient/blob/master/Unity_Poll_SQS_Script.cs), AWS Mobile SDK : [download] (http://sdk-for-net.amazonwebservices.com/latest/aws-sdk-unity.zip) 
